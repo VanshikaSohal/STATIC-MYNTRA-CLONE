@@ -21,7 +21,7 @@ A static frontend-only clone of the MYNTRA homepage built using HTML and CSS.
 ## 📁 Folder Structure
 
 myntra-static-clone/
-│
+│__IMAGES
 ├──index.css
 └── index.html
 
