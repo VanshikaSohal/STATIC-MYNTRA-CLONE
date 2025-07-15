@@ -20,10 +20,26 @@ A static frontend-only clone of the MYNTRA homepage built using HTML and CSS.
 
 ## 📁 Folder Structure
 
-myntra-static-clone/
-│__IMAGES
-├──index.css
-└── index.html
+STATIC-MYNTRA-CLONE
+│
+├── IMAGES/
+│   ├── offers/
+│   │   ├── 1.jpg
+│   │   ├── 2.jpg
+│   │   ├── 3.jpg
+│   │   ├── 4.jpg
+│   │   ├── 5.jpg
+│   │   ├── 6.jpg
+│   │   ├── 7.jpg
+│   │   ├── 8.jpg
+│   │   ├── 9.jpg
+│   │   └── 10.jpg
+│   ├── banner.jpg
+│   └── myntra_logo.webp
+│
+├── index.html
+├── index.css
+└── README.md
 
 ## 🚀 How to Run
 
